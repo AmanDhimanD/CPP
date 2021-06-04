@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main(void){
+  
+int i,j,count=0;
+  
+string s="Aman Dhiman";
+  
+for(i=0;s[i]!='\0';i++)
+  
+{
+     
+count++;
+  
+}
+  
+cout<<count;
+
+
+}
+

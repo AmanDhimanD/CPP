@@ -1,0 +1,33 @@
+#include <iostream>
+
+using namespace std;
+
+int swap(int a,int b);
+
+int main(void)
+{
+    
+int a=6,b=5;
+    
+cout<<a<<"\n"<<b;
+    
+swap(a,b);
+
+}
+
+int swap(int a,int b)
+
+{
+    int c;
+   
+ c=a;
+ 
+  a=b;
+ 
+   b=c;
+   
+ cout<<"\n"<<a<<"\n"<<b;
+  
+  return (a,b);
+
+}
