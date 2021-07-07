@@ -1,1 +1,1 @@
-<img align="center" alt="GIF" src="http://gph.is/2cmvCuy" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" />
