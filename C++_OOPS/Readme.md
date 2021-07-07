@@ -17,6 +17,6 @@ Object-oriented programming has several advantages over procedural programming:
 
 ---
 **TOPICS**
-  > [**Class and object**](https://github.com/AmanDhimanD/CPP/blob/main/C%2B%2B_OOPS/02_Class_Object.cpp)
+  >- [**Class and object**](https://github.com/AmanDhimanD/CPP/blob/main/C%2B%2B_OOPS/02_Class_Object.cpp)
   
 
