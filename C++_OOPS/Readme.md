@@ -17,8 +17,8 @@ Object-oriented programming has several advantages over procedural programming:
 
 ---
 # TOPICS
-  >- [**Class and object**](https://github.com/AmanDhimanD/CPP/blob/main/C%2B%2B_OOPS/02_Class_Object.cpp) \
-  <p> A Class is a template for objects, and an object is an instance of a class. 
+  >- [**Class and object**](https://github.com/AmanDhimanD/CPP/blob/main/C%2B%2B_OOPS/02_Class_Object.cpp) 
+    <p> A Class is a template for objects, and an object is an instance of a class. 
         fruit-->is the class 
               ->apple
               ->banana
