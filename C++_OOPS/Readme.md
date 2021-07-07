@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" width="600" src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" />
+
 # C++ What is OOP?
 
 <p>
@@ -6,6 +6,7 @@
 
 Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions.
   </p>
+  <img align="right" alt="GIF" width="500" src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" />
 Object-oriented programming has several advantages over procedural programming:
 
 - OOP is faster and easier to execute
