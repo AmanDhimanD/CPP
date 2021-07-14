@@ -13,7 +13,7 @@ int main()
         0010 --> binary of 8 
 
     */
-    cout << (n << 1)<<endl; //Right shift
-    cout << (n >> 1)<<endl; //Left shift
+    cout << (n << 1) <<endl; //Right shift ------ (a<<n) - - - >a * 2 ^ n
+    cout << (n >> 1) << endl; //Left shift  ------ (a>>n) - - - >a / 2 ^ n
     return 0;
 }
