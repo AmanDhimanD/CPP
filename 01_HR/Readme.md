@@ -28,5 +28,23 @@ john
 carmack
 10
 ```
-===================================
+
+- [Class](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Class.cpp)
+
+*Sample Input*
+```
+15
+john
+carmack
+10
+```
+*Sample Output*
+```
+15
+carmack, john
+10
+15,john,carmack,10
+```
+
+
 
