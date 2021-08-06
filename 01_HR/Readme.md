@@ -13,6 +13,7 @@ ebcd af
 ```
 
 - [Structure](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Structs.cpp)
+
 *Sample Input*
 ```
 15
