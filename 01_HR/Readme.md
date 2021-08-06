@@ -1,10 +1,10 @@
 - [Strings](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Strings.cpp)
--- Sample Input
+*Sample Input*
 ```
 abcd
 ef
 ```
--- Sample Output
+_ Sample Output
 ```
 4 2
 abcdef
