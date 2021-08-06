@@ -1,4 +1,4 @@
-[Strings](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Strings.cpp)
+**[Strings](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Strings.cpp)
 - Sample Input
 ```
 abcd
@@ -10,8 +10,8 @@ ef
 abcdef
 ebcd af
 ```
-===================================
-[Structure](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Structs.cpp)
+
+**[Structure](https://github.com/AmanDhimanD/CPP/blob/main/01_HR/Structs.cpp)
 - Sample Input
 ```
 15
