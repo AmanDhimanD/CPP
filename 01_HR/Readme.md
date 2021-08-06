@@ -1,11 +1,11 @@
 **Strings**
 
--- Sample Input
+- Sample Input
 ```
 abcd
 ef
 ```
--- Sample Output
+- Sample Output
 ```
 4 2
 abcdef
