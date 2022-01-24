@@ -13,7 +13,7 @@ int main()
 
     //intialization
     vector<int> a(5, 1);
-
+    cout << "max_size of a = " << a.max_size() << endl;
     //all vector initilize with 1 ---> (5,1) ----> 5 vector with value 1 
 
     cout<<"Print a"<<endl;
@@ -72,5 +72,7 @@ int main()
     cout << "Before Clear size :- " << v.size() << endl;
     v.clear();
     cout << "After Clear size :- " << v.size() << endl;
+    
+    
     return 0;
 }
