@@ -12,16 +12,16 @@ int partition(int arr[],int l,int r){
       for(int j=l;j<r;j++){
             if(arr[j]<pivot){
                   i++;
-                  swap(arr,i,j);
+                  swap(arr,i,j); //swap the array elements
             }
       }
-      swap(arr,i+1,r);
-      return i+1;
+      swap(arr,i+1,r); //swap the array elements 
+      return i+1; // return value to the pi in quick sort   
 }
 void quickSort(int arr[],int l,int r){
       if(l<r){
             int pi = partition(arr,l,r);
-            quickSort(arr,l,pi-1);
+            quickSort(arr,l,pi-1); //recurisive calls
             quickSort(arr,pi+1,r);
       }
 }
