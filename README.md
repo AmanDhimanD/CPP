@@ -15,4 +15,5 @@ C++
 3. NoteBook Algorithms 
 ```
 - [Luv Channel ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+- [Important Algo's](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) 
 
