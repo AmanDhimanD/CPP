@@ -18,8 +18,8 @@ C++
 - [Important Algo's](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) 
 
 # Topics 
-Arrays
-String
+-- Arrays
+-- String
 Linked List
 Stack and Queue
 Tree and BST
