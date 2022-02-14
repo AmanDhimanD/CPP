@@ -17,3 +17,18 @@ C++
 - [Luv Channel ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 - [Important Algo's](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) 
 
+# Topics 
+Arrays
+String
+Linked List
+Stack and Queue
+Tree and BST
+Heap
+Recursion
+Hashing
+Graph
+Greedy
+Dynamic Programming
+Divide and Conquer
+Backtracking
+Bit Magic**
