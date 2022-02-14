@@ -18,17 +18,17 @@ C++
 - [Important Algo's](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) 
 
 # Topics 
--- Arrays
--- String
-Linked List
-Stack and Queue
-Tree and BST
-Heap
-Recursion
-Hashing
-Graph
-Greedy
-Dynamic Programming
-Divide and Conquer
-Backtracking
-Bit Magic**
+- Arrays
+- String
+- Linked List
+- Stack and Queue
+- Tree and BST
+- Heap
+- Recursion
+- Hashing
+- Graph
+- Greedy
+- Dynamic Programming
+- Divide and Conquer
+- Backtracking
+- Bit Magic**
