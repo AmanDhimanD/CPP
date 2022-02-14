@@ -33,3 +33,6 @@ C++
 - Divide and Conquer
 - Backtracking
 - Bit Magic**
+
+###### After this follow the GFG Competitive Coding 
+- Trick's Topics [Click](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
