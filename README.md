@@ -18,7 +18,7 @@ C++
 - [Important Algo's](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) 
 
 # Topics 
-```Must Do``` [Click Here](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp){:target="_blank" rel="noopener"}
+```Must Do``` [Click Here](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp)
 - Arrays
 - String
 - Linked List
