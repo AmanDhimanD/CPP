@@ -13,5 +13,5 @@ C++
 1. Start with CodeChef 
 2. Use luv channle on youtube 
 ```
-- [Here](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+- [Luv Channel ](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
 
