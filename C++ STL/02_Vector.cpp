@@ -12,6 +12,7 @@ int main()
     vector<int> v;
 
     //intialization
+    //vectot<datatype> varirable(size,value decleration)
     vector<int> a(5, 1);
     cout << "max_size of a = " << a.max_size() << endl;
     //all vector initilize with 1 ---> (5,1) ----> 5 vector with value 1 
