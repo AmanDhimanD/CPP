@@ -94,7 +94,7 @@ int height(tree* root, string type = "", tree* rootValue = null)
     }
     
     cout<<"Method: "<< type << endl << "Value: "<< root->data<< " of "<<
-                                        (rootValue ? to_string(rootValue->data): "root") <<endl;
+                                        (rootValue ? to_string(rootValue->data): "root") <<endl<<endl;
 
     int left = height(root->left, "left", root);
     int right = height(root->right, "right", root);
