@@ -83,7 +83,7 @@ void print(tree* root)
 int main() {
     tree* root;
     print(buildTree(root)); // inorder == LNR
-    // 1 2 3 -1 -1 4 -1 -1 5 6 7 -1 -1 -1 -1
+    // 1 2 3 -1 -1 4 -1 -1 5 6 -1 -1 7 -1 -1
     return 0;
 } 
     return 0;
