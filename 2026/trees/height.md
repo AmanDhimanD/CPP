@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+```
 #include <bits/stdc++.h>
 using namespace std;
 #define null NULL
@@ -83,3 +83,23 @@ int main() {
     cout<<"Max height of the tree is "<< height(root)<<endl; // ans: 3
     return 0;
 } 
+```
+### Debug
+```
+int height(tree* root, string type = "", tree* rootValue = null)
+{
+    if(root == null)
+    {
+        return 0;
+    }
+    
+    cout<<"Method: "<< type << endl << "Value: "<< root->data<< " of "<<
+                                        (rootValue ? to_string(rootValue->data): "root") <<endl;
+
+    int left = height(root->left, "left", root);
+    int right = height(root->right, "right", root);
+    int ans = max(left, right) + 1;
+    return ans;
+}
+
+```
