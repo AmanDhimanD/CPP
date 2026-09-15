@@ -80,6 +80,6 @@ int main() {
     
     tree* root = buildTreeByValues();
     
-    cout<<height(root)<<endl; // ans: 3
+    cout<<"Max height of the tree is "<< height(root)<<endl; // ans: 3
     return 0;
 } 
