@@ -41,7 +41,10 @@ void print(tree* root)
 int main() {
     tree* root;
     print(buildTree(root)); // inorder == LNR
-// Online C++ compiler to run C++ program online
+}
+```
+
+```
 #include <bits/stdc++.h>
 using namespace std;
 class tree{
